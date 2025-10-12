@@ -57,7 +57,7 @@ I love building **end-to-end CI/CD pipelines**, creating **modular IaC architect
 -->
 ### 📫 Connect with Me
 <p align="left">
-  <a href="[https://linkedin.com/in/your-linkedin-url](https://www.linkedin.com/in/sarvanakumarv3)" target="_blank">
+  <a href="https://www.linkedin.com/in/sarvanakumarv3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:saravana4064@gmail.com" target="_blank">
