@@ -66,5 +66,3 @@ I love building **end-to-end CI/CD pipelines**, creating **modular IaC architect
 </p>
 
 ---
-
-⭐ **Fun fact:** I believe every DevOps solution should be *simple, scalable, and repeatable* 😄
